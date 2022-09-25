@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+     xml:lang="en-US"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+    <meta name="dtb:uid" content="51037e82-03ff-11dd-9fbb-0018f369440e"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta name="provider" content="www.cnepub.com"/>
+    <meta name="builder" content="epubBuilder present by www.cnepub.com"/>
+    <meta name="right" content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。"/>
+  </head>
+<docTitle><text> 明朝那些事儿 </text></docTitle>
+<docAuthor><text> 当年明月 </text></docAuthor>
+<navMap>
+<navPoint id="coverpage" playOrder="0">
+<navLabel><text>封面</text></navLabel>
+<content src="coverpage.html"/>
+</navPoint>
+<navPoint id="chapter187" playOrder="1">
+<navLabel><text>主目录</text></navLabel>
+<content src="chapter187.html"/>
+</navPoint>
+<navPoint id="chapter1" playOrder="2">
+<navLabel><text>前言</text></navLabel>
+<content src="chapter1.html"/>
+</navPoint>
+<navPoint id="chapter2" playOrder="3">
+<navLabel><text>壹 洪武大帝</text></navLabel>
+<content src="chapter2.html"/>
+<navPoint id="chapter3" playOrder="4">
+<navLabel><text>朱元璋篇</text></navLabel>
+<content src="chapter3.html"/>
+<navPoint id="chapter4" playOrder="5">
+<navLabel><text>引子</text></navLabel>
+<content src="chapter4.html"/>
+</navPoint>
+<navPoint id="chapter5" playOrder="6">
+<navLabel><text>第一章 童年</text></navLabel>
+<content src="chapter5.html"/>
+</navPoint>
+<navPoint id="chapter6" playOrder="7">
+<navLabel><text>第二章 灾难</text></navLabel>
+<content src="chapter6.html"/>
+</navPoint>
+<navPoint id="chapter7" playOrder="8">
+<navLabel><text>第三章 踏上征途</text></navLabel>
+<content src="chapter7.html"/>
+</navPoint>
+<navPoint id="chapter8" playOrder="9">
+<navLabel><text>第四章 就从这里起步</text></navLabel>
+<content src="chapter8.html"/>
+</navPoint>
+<navPoint id="chapter9" playOrder="10">
+<navLabel><text>第五章 储蓄资本</text></navLabel>
+<content src="chapter9.html"/>
+</navPoint>
+<navPoint id="chapter10" playOrder="11">
+<navLabel><text>第六章 霸业的开始</text></navLabel>
+<content src="chapter10.html"/>
+</navPoint>
+<navPoint id="chapter11" playOrder="12">
+<navLabel><text>第七章 可怕的对手</text></navLabel>
+<content src="chapter11.html"/>
+</navPoint>
+<navPoint id="chapter12" playOrder="13">
+<navLabel><text>第八章 可怕的陈友谅</text></navLabel>
+<content src="chapter12.html"/>
+</navPoint>
+<navPoint id="chapter13" playOrder="14">
+<navLabel><text>第九章 决战不可避免</text></navLabel>
+<content src="chapter13.html"/>
+</navPoint>
+<navPoint id="chapter14" playOrder="15">
+<navLabel><text>第十章 等待最好的时机</text></navLabel>
+<content src="chapter14.html"/>
+</navPoint>
+<navPoint id="chapter15" playOrder="16">
+<navLabel><text>第十一章 洪都的奇迹</text></navLabel>
+<content src="chapter15.html"/>
+</navPoint>
+<navPoint id="chapter16" playOrder="17">
+<navLabel><text>第十二章 鄱阳湖！决死战！</text></navLabel>
+<content src="chapter16.html"/>
+</navPoint>
+<navPoint id="chapter17" playOrder="18">
+<navLabel><text>第十三章 下一个目标，张士诚！</text></navLabel>
+<content src="chapter17.html"/>
+</navPoint>
+<navPoint id="chapter18" playOrder="19">
+<navLabel><text>第十四章 复仇</text></navLabel>
+<content src="chapter18.html"/>
+</navPoint>
+<navPoint id="chapter19" playOrder="20">
+<navLabel><text>第十五章 远征沙漠</text></navLabel>
+<content src="chapter19.html"/>
+</navPoint>
+<navPoint id="chapter20" playOrder="21">
+<navLabel><text>第十六章 建国</text></navLabel>
+<content src="chapter20.html"/>
+</navPoint>
+<navPoint id="chapter21" playOrder="22">
+<navLabel><text>第十七章 胡惟庸案件</text></navLabel>
+<content src="chapter21.html"/>
+</navPoint>
+<navPoint id="chapter22" playOrder="23">
+<navLabel><text>第十八章 扫除一切腐败者</text></navLabel>
+<content src="chapter22.html"/>
+</navPoint>
+<navPoint id="chapter23" playOrder="24">
+<navLabel><text>第十九章 冤案</text></navLabel>
+<content src="chapter23.html"/>
+</navPoint>
+<navPoint id="chapter24" playOrder="25">
+<navLabel><text>第二十章 最后的名将——蓝玉</text></navLabel>
+<content src="chapter24.html"/>
+</navPoint>
+<navPoint id="chapter25" playOrder="26">
+<navLabel><text>第二十一章 蓝玉的覆灭</text></navLabel>
+<content src="chapter25.html"/>
+</navPoint>
+<navPoint id="chapter26" playOrder="27">
+<navLabel><text>第二十二章 制度后的秘密</text></navLabel>
+<content src="chapter26.html"/>
+</navPoint>
+<navPoint id="chapter27" playOrder="28">
+<navLabel><text>第二十三章 终点，起点</text></navLabel>
+<content src="chapter27.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter28" playOrder="29">
+<navLabel><text>朱允炆篇</text></navLabel>
+<content src="chapter28.html"/>
+<navPoint id="chapter29" playOrder="30">
+<navLabel><text>第二十四章 建文帝</text></navLabel>
+<content src="chapter29.html"/>
+</navPoint>
+<navPoint id="chapter30" playOrder="31">
+<navLabel><text>第二十五章 等待中的朱棣</text></navLabel>
+<content src="chapter30.html"/>
+</navPoint>
+<navPoint id="chapter31" playOrder="32">
+<navLabel><text>第二十六章 准备行动</text></navLabel>
+<content src="chapter31.html"/>
+</navPoint>
+<navPoint id="chapter32" playOrder="33">
+<navLabel><text>第二十七章 不得不反了！</text></navLabel>
+<content src="chapter32.html"/>
+</navPoint>
+<navPoint id="chapter33" playOrder="34">
+<navLabel><text>第二十八章 你死我活的战争</text></navLabel>
+<content src="chapter33.html"/>
+</navPoint>
+<navPoint id="chapter34" playOrder="35">
+<navLabel><text>第二十九章 朱棣的对手</text></navLabel>
+<content src="chapter34.html"/>
+</navPoint>
+<navPoint id="chapter35" playOrder="36">
+<navLabel><text>第三十章 离胜利只差一步</text></navLabel>
+<content src="chapter35.html"/>
+</navPoint>
+<navPoint id="chapter36" playOrder="37">
+<navLabel><text>第三十一章 殉国、疑团、残暴、软弱</text></navLabel>
+<content src="chapter36.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter37" playOrder="38">
+<navLabel><text>贰 万国来朝</text></navLabel>
+<content src="chapter37.html"/>
+<navPoint id="chapter38" playOrder="39">
+<navLabel><text>朱棣篇</text></navLabel>
+<content src="chapter38.html"/>
+<navPoint id="chapter39" playOrder="40">
+<navLabel><text>第一章 帝王的烦恼</text></navLabel>
+<content src="chapter39.html"/>
+</navPoint>
+<navPoint id="chapter40" playOrder="41">
+<navLabel><text>第二章 帝王的荣耀</text></navLabel>
+<content src="chapter40.html"/>
+</navPoint>
+<navPoint id="chapter41" playOrder="42">
+<navLabel><text>第三章 帝王的抉择</text></navLabel>
+<content src="chapter41.html"/>
+</navPoint>
+<navPoint id="chapter42" playOrder="43">
+<navLabel><text>第四章 郑和之后，再无郑和</text></navLabel>
+<content src="chapter42.html"/>
+</navPoint>
+<navPoint id="chapter43" playOrder="44">
+<navLabel><text>第五章 纵横天下</text></navLabel>
+<content src="chapter43.html"/>
+</navPoint>
+<navPoint id="chapter44" playOrder="45">
+<navLabel><text>第六章 天子守国门！</text></navLabel>
+<content src="chapter44.html"/>
+</navPoint>
+<navPoint id="chapter45" playOrder="46">
+<navLabel><text>第七章 逆命者必剪除之！</text></navLabel>
+<content src="chapter45.html"/>
+</navPoint>
+<navPoint id="chapter46" playOrder="47">
+<navLabel><text>第八章 帝王的财产</text></navLabel>
+<content src="chapter46.html"/>
+</navPoint>
+<navPoint id="chapter47" playOrder="48">
+<navLabel><text>第九章 生死相搏</text></navLabel>
+<content src="chapter47.html"/>
+</navPoint>
+<navPoint id="chapter48" playOrder="49">
+<navLabel><text>第十章 最后的秘密</text></navLabel>
+<content src="chapter48.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter49" playOrder="50">
+<navLabel><text>朱高炽篇</text></navLabel>
+<content src="chapter49.html"/>
+<navPoint id="chapter50" playOrder="51">
+<navLabel><text>第十一章 朱高炽的勇气和疑团</text></navLabel>
+<content src="chapter50.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter51" playOrder="52">
+<navLabel><text>朱瞻基篇</text></navLabel>
+<content src="chapter51.html"/>
+<navPoint id="chapter52" playOrder="53">
+<navLabel><text>第十二章 朱瞻基是个好同志</text></navLabel>
+<content src="chapter52.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter53" playOrder="54">
+<navLabel><text>朱祁镇篇</text></navLabel>
+<content src="chapter53.html"/>
+<navPoint id="chapter54" playOrder="55">
+<navLabel><text>第十三章 祸根</text></navLabel>
+<content src="chapter54.html"/>
+</navPoint>
+<navPoint id="chapter55" playOrder="56">
+<navLabel><text>第十四章 土木堡</text></navLabel>
+<content src="chapter55.html"/>
+</navPoint>
+<navPoint id="chapter56" playOrder="57">
+<navLabel><text>第十五章 力挽狂澜</text></navLabel>
+<content src="chapter56.html"/>
+</navPoint>
+<navPoint id="chapter57" playOrder="58">
+<navLabel><text>第十六章 决断！</text></navLabel>
+<content src="chapter57.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter58" playOrder="59">
+<navLabel><text>朱祁钰篇</text></navLabel>
+<content src="chapter58.html"/>
+<navPoint id="chapter59" playOrder="60">
+<navLabel><text>第十七章 信念</text></navLabel>
+<content src="chapter59.html"/>
+</navPoint>
+<navPoint id="chapter60" playOrder="61">
+<navLabel><text>第十八章 北京保卫战</text></navLabel>
+<content src="chapter60.html"/>
+</navPoint>
+<navPoint id="chapter61" playOrder="62">
+<navLabel><text>第十九章 朱祁镇的奋斗</text></navLabel>
+<content src="chapter61.html"/>
+</navPoint>
+<navPoint id="chapter62" playOrder="63">
+<navLabel><text>第二十章 回家</text></navLabel>
+<content src="chapter62.html"/>
+</navPoint>
+<navPoint id="chapter63" playOrder="64">
+<navLabel><text>第二十一章 囚徒朱祁镇</text></navLabel>
+<content src="chapter63.html"/>
+</navPoint>
+<navPoint id="chapter64" playOrder="65">
+<navLabel><text>第二十二章 夺门</text></navLabel>
+<content src="chapter64.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter65" playOrder="66">
+<navLabel><text>叁 妖孽宫廷</text></navLabel>
+<content src="chapter65.html"/>
+<navPoint id="chapter66" playOrder="67">
+<navLabel><text>朱祁镇篇</text></navLabel>
+<content src="chapter66.html"/>
+<navPoint id="chapter67" playOrder="68">
+<navLabel><text>第一章 有冤报冤，有仇报仇</text></navLabel>
+<content src="chapter67.html"/>
+</navPoint>
+<navPoint id="chapter68" playOrder="69">
+<navLabel><text>第二章 隐藏的敌人</text></navLabel>
+<content src="chapter68.html"/>
+</navPoint>
+<navPoint id="chapter69" playOrder="70">
+<navLabel><text>第三章 公道</text></navLabel>
+<content src="chapter69.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter70" playOrder="71">
+<navLabel><text>朱见深篇</text></navLabel>
+<content src="chapter70.html"/>
+<navPoint id="chapter71" playOrder="72">
+<navLabel><text>第四章 不伦之恋</text></navLabel>
+<content src="chapter71.html"/>
+</navPoint>
+<navPoint id="chapter72" playOrder="73">
+<navLabel><text>第五章 武林大会</text></navLabel>
+<content src="chapter72.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter73" playOrder="74">
+<navLabel><text>朱祐樘篇</text></navLabel>
+<content src="chapter73.html"/>
+<navPoint id="chapter74" playOrder="75">
+<navLabel><text>第六章 明君</text></navLabel>
+<content src="chapter74.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter75" playOrder="76">
+<navLabel><text>朱厚照篇</text></navLabel>
+<content src="chapter75.html"/>
+<navPoint id="chapter76" playOrder="77">
+<navLabel><text>第七章 斗争，还是隐忍？</text></navLabel>
+<content src="chapter76.html"/>
+</navPoint>
+<navPoint id="chapter77" playOrder="78">
+<navLabel><text>第八章 传奇就此开始</text></navLabel>
+<content src="chapter77.html"/>
+</navPoint>
+<navPoint id="chapter78" playOrder="79">
+<navLabel><text>第九章 悟道</text></navLabel>
+<content src="chapter78.html"/>
+</navPoint>
+<navPoint id="chapter79" playOrder="80">
+<navLabel><text>第十章 机会终于到来</text></navLabel>
+<content src="chapter79.html"/>
+</navPoint>
+<navPoint id="chapter80" playOrder="81">
+<navLabel><text>第十一章 必杀刘瑾</text></navLabel>
+<content src="chapter80.html"/>
+</navPoint>
+<navPoint id="chapter81" playOrder="82">
+<navLabel><text>第十二章 皇帝的幸福生活</text></navLabel>
+<content src="chapter81.html"/>
+</navPoint>
+<navPoint id="chapter82" playOrder="83">
+<navLabel><text>第十三章 无人知晓的胜利</text></navLabel>
+<content src="chapter82.html"/>
+</navPoint>
+<navPoint id="chapter83" playOrder="84">
+<navLabel><text>第十四章 东山再起</text></navLabel>
+<content src="chapter83.html"/>
+</navPoint>
+<navPoint id="chapter84" playOrder="85">
+<navLabel><text>第十五章 孤军</text></navLabel>
+<content src="chapter84.html"/>
+</navPoint>
+<navPoint id="chapter85" playOrder="86">
+<navLabel><text>第十六章 奋战</text></navLabel>
+<content src="chapter85.html"/>
+</navPoint>
+<navPoint id="chapter86" playOrder="87">
+<navLabel><text>第十七章 死亡的阴谋</text></navLabel>
+<content src="chapter86.html"/>
+</navPoint>
+<navPoint id="chapter87" playOrder="88">
+<navLabel><text>第十八章 沉默的较量</text></navLabel>
+<content src="chapter87.html"/>
+</navPoint>
+<navPoint id="chapter88" playOrder="89">
+<navLabel><text>第十九章 终结的归宿</text></navLabel>
+<content src="chapter88.html"/>
+</navPoint>
+<navPoint id="chapter89" playOrder="90">
+<navLabel><text>第二十章 新的开始</text></navLabel>
+<content src="chapter89.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter90" playOrder="91">
+<navLabel><text>肆 粉饰太平</text></navLabel>
+<content src="chapter90.html"/>
+<navPoint id="chapter91" playOrder="92">
+<navLabel><text>朱厚熜篇</text></navLabel>
+<content src="chapter91.html"/>
+<navPoint id="chapter92" playOrder="93">
+<navLabel><text>第一章 皇帝很脆弱</text></navLabel>
+<content src="chapter92.html"/>
+</navPoint>
+<navPoint id="chapter93" playOrder="94">
+<navLabel><text>第二章 大臣很强悍</text></navLabel>
+<content src="chapter93.html"/>
+</navPoint>
+<navPoint id="chapter94" playOrder="95">
+<navLabel><text>第三章 解脱</text></navLabel>
+<content src="chapter94.html"/>
+</navPoint>
+<navPoint id="chapter95" playOrder="96">
+<navLabel><text>第四章 龙争虎斗</text></navLabel>
+<content src="chapter95.html"/>
+</navPoint>
+<navPoint id="chapter96" playOrder="97">
+<navLabel><text>第五章 锋芒</text></navLabel>
+<content src="chapter96.html"/>
+</navPoint>
+<navPoint id="chapter97" playOrder="98">
+<navLabel><text>第六章 最阴险的敌人</text></navLabel>
+<content src="chapter97.html"/>
+</navPoint>
+<navPoint id="chapter98" playOrder="99">
+<navLabel><text>第七章 徐阶的觉醒</text></navLabel>
+<content src="chapter98.html"/>
+</navPoint>
+<navPoint id="chapter99" playOrder="100">
+<navLabel><text>第八章 天下，三人而已</text></navLabel>
+<content src="chapter99.html"/>
+</navPoint>
+<navPoint id="chapter100" playOrder="101">
+<navLabel><text>第九章 致命的疏漏</text></navLabel>
+<content src="chapter100.html"/>
+</navPoint>
+<navPoint id="chapter101" playOrder="102">
+<navLabel><text>第十章 隐藏的精英</text></navLabel>
+<content src="chapter101.html"/>
+</navPoint>
+<navPoint id="chapter102" playOrder="103">
+<navLabel><text>第十一章 勇气</text></navLabel>
+<content src="chapter102.html"/>
+</navPoint>
+<navPoint id="chapter103" playOrder="104">
+<navLabel><text>第十二章 东南的奇才</text></navLabel>
+<content src="chapter103.html"/>
+</navPoint>
+<navPoint id="chapter104" playOrder="105">
+<navLabel><text>第十三章 天下第一幕僚</text></navLabel>
+<content src="chapter104.html"/>
+</navPoint>
+<navPoint id="chapter105" playOrder="106">
+<navLabel><text>第十四章 强敌</text></navLabel>
+<content src="chapter105.html"/>
+</navPoint>
+<navPoint id="chapter106" playOrder="107">
+<navLabel><text>第十五章 天才的谋略</text></navLabel>
+<content src="chapter106.html"/>
+</navPoint>
+<navPoint id="chapter107" playOrder="108">
+<navLabel><text>第十六章 战争——最后的抉择</text></navLabel>
+<content src="chapter107.html"/>
+</navPoint>
+<navPoint id="chapter108" playOrder="109">
+<navLabel><text>第十七章 名将的起点</text></navLabel>
+<content src="chapter108.html"/>
+</navPoint>
+<navPoint id="chapter109" playOrder="110">
+<navLabel><text>第十八章 制胜之道</text></navLabel>
+<content src="chapter109.html"/>
+</navPoint>
+<navPoint id="chapter110" playOrder="111">
+<navLabel><text>第十九章 侵略者的末日</text></navLabel>
+<content src="chapter110.html"/>
+</navPoint>
+<navPoint id="chapter111" playOrder="112">
+<navLabel><text>第二十章 英雄的结局</text></navLabel>
+<content src="chapter111.html"/>
+</navPoint>
+<navPoint id="chapter112" playOrder="113">
+<navLabel><text>第二十一章 曙光</text></navLabel>
+<content src="chapter112.html"/>
+</navPoint>
+<navPoint id="chapter113" playOrder="114">
+<navLabel><text>第二十二章 胜利</text></navLabel>
+<content src="chapter113.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter114" playOrder="115">
+<navLabel><text>伍 帝国飘摇</text></navLabel>
+<content src="chapter114.html"/>
+<navPoint id="chapter115" playOrder="116">
+<navLabel><text>朱厚熜篇</text></navLabel>
+<content src="chapter115.html"/>
+<navPoint id="chapter116" playOrder="117">
+<navLabel><text>第一章 致命的正义</text></navLabel>
+<content src="chapter116.html"/>
+</navPoint>
+<navPoint id="chapter117" playOrder="118">
+<navLabel><text>第二章 奇怪的人</text></navLabel>
+<content src="chapter117.html"/>
+</navPoint>
+<navPoint id="chapter118" playOrder="119">
+<navLabel><text>第三章 天下的对弈</text></navLabel>
+<content src="chapter118.html"/>
+</navPoint>
+<navPoint id="chapter119" playOrder="120">
+<navLabel><text>第四章 成熟</text></navLabel>
+<content src="chapter119.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter120" playOrder="121">
+<navLabel><text>朱载垕篇</text></navLabel>
+<content src="chapter120.html"/>
+<navPoint id="chapter121" playOrder="122">
+<navLabel><text>第五章 最终的乱战</text></navLabel>
+<content src="chapter121.html"/>
+</navPoint>
+<navPoint id="chapter122" playOrder="123">
+<navLabel><text>第六章 高拱的成就</text></navLabel>
+<content src="chapter122.html"/>
+</navPoint>
+<navPoint id="chapter123" playOrder="124">
+<navLabel><text>第七章 死斗</text></navLabel>
+<content src="chapter123.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter124" playOrder="125">
+<navLabel><text>朱翊钧篇</text></navLabel>
+<content src="chapter124.html"/>
+<navPoint id="chapter125" playOrder="126">
+<navLabel><text>第八章 阴谋</text></navLabel>
+<content src="chapter125.html"/>
+</navPoint>
+<navPoint id="chapter126" playOrder="127">
+<navLabel><text>第九章 张居正的缺陷</text></navLabel>
+<content src="chapter126.html"/>
+</navPoint>
+<navPoint id="chapter127" playOrder="128">
+<navLabel><text>第十章 敌人</text></navLabel>
+<content src="chapter127.html"/>
+</navPoint>
+<navPoint id="chapter128" playOrder="129">
+<navLabel><text>第十一章 千古，唯此一人</text></navLabel>
+<content src="chapter128.html"/>
+</navPoint>
+<navPoint id="chapter129" playOrder="130">
+<navLabel><text>第十二章 谜团</text></navLabel>
+<content src="chapter129.html"/>
+</navPoint>
+<navPoint id="chapter130" playOrder="131">
+<navLabel><text>第十三章 野心的开始</text></navLabel>
+<content src="chapter130.html"/>
+</navPoint>
+<navPoint id="chapter131" playOrder="132">
+<navLabel><text>第十四章 明朝的愤怒</text></navLabel>
+<content src="chapter131.html"/>
+</navPoint>
+<navPoint id="chapter132" playOrder="133">
+<navLabel><text>第十五章 兵不厌诈</text></navLabel>
+<content src="chapter132.html"/>
+</navPoint>
+<navPoint id="chapter133" playOrder="134">
+<navLabel><text>第十六章 平壤，血战</text></navLabel>
+<content src="chapter133.html"/>
+</navPoint>
+<navPoint id="chapter134" playOrder="135">
+<navLabel><text>第十七章 不世出之名将</text></navLabel>
+<content src="chapter134.html"/>
+</navPoint>
+<navPoint id="chapter135" playOrder="136">
+<navLabel><text>第十八章 二次摊牌</text></navLabel>
+<content src="chapter135.html"/>
+</navPoint>
+<navPoint id="chapter136" playOrder="137">
+<navLabel><text>第十九章 胜算</text></navLabel>
+<content src="chapter136.html"/>
+</navPoint>
+<navPoint id="chapter137" playOrder="138">
+<navLabel><text>第二十章 为了忘却的纪念</text></navLabel>
+<content src="chapter137.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter138" playOrder="139">
+<navLabel><text>陆 日暮西山</text></navLabel>
+<content src="chapter138.html"/>
+<navPoint id="chapter139" playOrder="140">
+<navLabel><text>朱翊钧篇</text></navLabel>
+<content src="chapter139.html"/>
+<navPoint id="chapter140" playOrder="141">
+<navLabel><text>第一章 绝顶的官僚</text></navLabel>
+<content src="chapter140.html"/>
+</navPoint>
+<navPoint id="chapter141" playOrder="142">
+<navLabel><text>第二章 和稀泥的艺术</text></navLabel>
+<content src="chapter141.html"/>
+</navPoint>
+<navPoint id="chapter142" playOrder="143">
+<navLabel><text>第三章 游戏的开始</text></navLabel>
+<content src="chapter142.html"/>
+</navPoint>
+<navPoint id="chapter143" playOrder="144">
+<navLabel><text>第四章 混战</text></navLabel>
+<content src="chapter143.html"/>
+</navPoint>
+<navPoint id="chapter144" playOrder="145">
+<navLabel><text>第五章 东林崛起</text></navLabel>
+<content src="chapter144.html"/>
+</navPoint>
+<navPoint id="chapter145" playOrder="146">
+<navLabel><text>第六章 谋杀</text></navLabel>
+<content src="chapter145.html"/>
+</navPoint>
+<navPoint id="chapter146" playOrder="147">
+<navLabel><text>第七章 不起眼的敌人</text></navLabel>
+<content src="chapter146.html"/>
+</navPoint>
+<navPoint id="chapter147" playOrder="148">
+<navLabel><text>第八章 萨尔浒</text></navLabel>
+<content src="chapter147.html"/>
+</navPoint>
+<navPoint id="chapter148" playOrder="149">
+<navLabel><text>第九章 东林党的实力</text></navLabel>
+<content src="chapter148.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter149" playOrder="150">
+<navLabel><text>朱常洛篇</text></navLabel>
+<content src="chapter149.html"/>
+<navPoint id="chapter150" playOrder="151">
+<navLabel><text>第十章 小人物的奋斗</text></navLabel>
+<content src="chapter150.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter151" playOrder="152">
+<navLabel><text>朱由校篇</text></navLabel>
+<content src="chapter151.html"/>
+<navPoint id="chapter152" playOrder="153">
+<navLabel><text>第十一章 强大，无比强大</text></navLabel>
+<content src="chapter152.html"/>
+</navPoint>
+<navPoint id="chapter153" playOrder="154">
+<navLabel><text>第十二章 天才的敌手</text></navLabel>
+<content src="chapter153.html"/>
+</navPoint>
+<navPoint id="chapter154" playOrder="155">
+<navLabel><text>第十三章 一个监狱看守</text></navLabel>
+<content src="chapter154.html"/>
+</navPoint>
+<navPoint id="chapter155" playOrder="156">
+<navLabel><text>第十四章 毁灭之路</text></navLabel>
+<content src="chapter155.html"/>
+</navPoint>
+<navPoint id="chapter156" playOrder="157">
+<navLabel><text>第十五章 道统</text></navLabel>
+<content src="chapter156.html"/>
+</navPoint>
+<navPoint id="chapter157" playOrder="158">
+<navLabel><text>第十六章 杨涟</text></navLabel>
+<content src="chapter157.html"/>
+</navPoint>
+<navPoint id="chapter158" playOrder="159">
+<navLabel><text>第十七章 殉道</text></navLabel>
+<content src="chapter158.html"/>
+</navPoint>
+<navPoint id="chapter159" playOrder="160">
+<navLabel><text>第十八章 袁崇焕</text></navLabel>
+<content src="chapter159.html"/>
+</navPoint>
+<navPoint id="chapter160" playOrder="161">
+<navLabel><text>第十九章 决心</text></navLabel>
+<content src="chapter160.html"/>
+</navPoint>
+<navPoint id="chapter161" playOrder="162">
+<navLabel><text>第二十章 胜利 结局</text></navLabel>
+<content src="chapter161.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter162" playOrder="163">
+<navLabel><text>柒 大结局</text></navLabel>
+<content src="chapter162.html"/>
+<navPoint id="chapter163" playOrder="164">
+<navLabel><text>朱由校篇</text></navLabel>
+<content src="chapter163.html"/>
+<navPoint id="chapter164" playOrder="165">
+<navLabel><text>第一章 皇太极</text></navLabel>
+<content src="chapter164.html"/>
+</navPoint>
+<navPoint id="chapter165" playOrder="166">
+<navLabel><text>第二章 宁远，决战</text></navLabel>
+<content src="chapter165.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter166" playOrder="167">
+<navLabel><text>朱由检篇</text></navLabel>
+<content src="chapter166.html"/>
+<navPoint id="chapter167" playOrder="168">
+<navLabel><text>第三章 疑惑</text></navLabel>
+<content src="chapter167.html"/>
+</navPoint>
+<navPoint id="chapter168" playOrder="169">
+<navLabel><text>第四章 夜半歌声</text></navLabel>
+<content src="chapter168.html"/>
+</navPoint>
+<navPoint id="chapter169" playOrder="170">
+<navLabel><text>第五章 算账</text></navLabel>
+<content src="chapter169.html"/>
+</navPoint>
+<navPoint id="chapter170" playOrder="171">
+<navLabel><text>第六章 复起</text></navLabel>
+<content src="chapter170.html"/>
+</navPoint>
+<navPoint id="chapter171" playOrder="172">
+<navLabel><text>第七章 杀人</text></navLabel>
+<content src="chapter171.html"/>
+</navPoint>
+<navPoint id="chapter172" playOrder="173">
+<navLabel><text>第八章 坚持到底的人</text></navLabel>
+<content src="chapter172.html"/>
+</navPoint>
+<navPoint id="chapter173" playOrder="174">
+<navLabel><text>第九章 阴谋</text></navLabel>
+<content src="chapter173.html"/>
+</navPoint>
+<navPoint id="chapter174" playOrder="175">
+<navLabel><text>第十章 斗争技术</text></navLabel>
+<content src="chapter174.html"/>
+</navPoint>
+<navPoint id="chapter175" playOrder="176">
+<navLabel><text>第十一章 投降？</text></navLabel>
+<content src="chapter175.html"/>
+</navPoint>
+<navPoint id="chapter176" playOrder="177">
+<navLabel><text>第十二章 纯属偶然</text></navLabel>
+<content src="chapter176.html"/>
+</navPoint>
+<navPoint id="chapter177" playOrder="178">
+<navLabel><text>第十三章 第二个猛人</text></navLabel>
+<content src="chapter177.html"/>
+</navPoint>
+<navPoint id="chapter178" playOrder="179">
+<navLabel><text>第十四章 突围</text></navLabel>
+<content src="chapter178.html"/>
+</navPoint>
+<navPoint id="chapter179" playOrder="180">
+<navLabel><text>第十五章 一个文雅的人</text></navLabel>
+<content src="chapter179.html"/>
+</navPoint>
+<navPoint id="chapter180" playOrder="181">
+<navLabel><text>第十六章 孙传庭</text></navLabel>
+<content src="chapter180.html"/>
+</navPoint>
+<navPoint id="chapter181" playOrder="182">
+<navLabel><text>第十七章 奇迹</text></navLabel>
+<content src="chapter181.html"/>
+</navPoint>
+<navPoint id="chapter182" playOrder="183">
+<navLabel><text>第十八章 天才的计划</text></navLabel>
+<content src="chapter182.html"/>
+</navPoint>
+<navPoint id="chapter183" playOrder="184">
+<navLabel><text>第十九章 选择</text></navLabel>
+<content src="chapter183.html"/>
+</navPoint>
+<navPoint id="chapter184" playOrder="185">
+<navLabel><text>第二十章 没有选择</text></navLabel>
+<content src="chapter184.html"/>
+</navPoint>
+<navPoint id="chapter185" playOrder="186">
+<navLabel><text>第二十一章 结束了？</text></navLabel>
+<content src="chapter185.html"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="chapter186" playOrder="187">
+<navLabel><text>后记</text></navLabel>
+<content src="chapter186.html"/>
+</navPoint>
+</navMap>
+</ncx>

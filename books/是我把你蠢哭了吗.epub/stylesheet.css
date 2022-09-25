@@ -1,0 +1,436 @@
+.amzn {
+    color: #000;
+    font-family: "NoteNubmerSymbol", "BookmanOld";
+    font-weight: normal;
+    text-decoration: underline;
+    text-indent: 0;
+    padding: 0;
+    margin: 0 0.5em 0 -1.5em
+    }
+.author {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "SourceHanSansSc4";
+    font-size: 0.875em;
+    font-weight: 400;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0;
+    margin: 0.8em 0 0
+    }
+.bookname {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre {
+    display: block;
+    font-weight: normal;
+    padding: 0;
+    margin: 0
+    }
+.calibre1 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "BookmanOld", "eBookSongTi", "STSong", STSong, serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0 0 0 0.3em;
+    border-left: currentColor solid 0.2em;
+    margin: 0.3em
+    }
+.calibre2 {
+    font-family: "SourceHanSansSc4";
+    font-weight: 400;
+    padding: 0;
+    margin: 0
+    }
+.calibre3 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "TimesNewRoman", "eBookKaiTi", "楷体", STKai, serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: auto;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0;
+    margin: 0.5em 0
+    }
+.calibre4 {
+    display: block;
+    font-family: "FzXiaoBiaoSong", serif;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    padding: 0;
+    margin: 3em 0 4em
+    }
+.calibre5 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "BookmanOld", "eBookSongTi", "STSong", STSong, serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 2em;
+    word-break: break-all;
+    padding: 0;
+    margin: 0.6em 0 0.5em
+    }
+.calibre6 {
+    font-weight: normal;
+    width: 60%;
+    padding: 0 0 0 1em;
+    border-bottom: #000 solid 1px;
+    margin: 3em 0 0
+    }
+.calibre7 {
+    font-weight: normal;
+    padding: 0 0 0 1em;
+    margin: 0.6em 0 0.5em
+    }
+.calibre8 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "BookmanOld", "eBookSongTi", "STSong", STSong, serif;
+    font-size: 0.875em;
+    font-weight: normal;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0 0.4em;
+    margin: 0.3em 0 0
+    }
+.calibre9 {
+    font-weight: normal;
+    padding: 0;
+    margin: 0
+    }
+.calibre10 {
+    display: block;
+    font-family: "FzXiaoBiaoSong";
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    padding: 3em 0 4em;
+    margin: 0
+    }
+.calibre11 {
+    clear: both;
+    display: list-item;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    text-align: left;
+    padding: 0.3em 0 0;
+    margin: 0.3em 0 0
+    }
+.calibre12 {
+    color: #000;
+    font-weight: normal;
+    padding: 0;
+    margin: 0
+    }
+.calibre13 {
+    font-family: "BookmanOld", "eBookFangSong", serif;
+    font-size: 0.9em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre14 {
+    font-family: "BookmanOld", "eBookFangSong", serif;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.calibre15 {
+    font-style: italic;
+    font-weight: normal;
+    padding: 0;
+    margin: 0
+    }
+.calibre16 {
+    font-family: "eBookHeiTi", "STHei", san-serif;
+    font-weight: normal;
+    padding: 0;
+    margin: 0
+    }
+.calibre17 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "BookmanOld", "eBookFangSong", serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: auto;
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 2em;
+    word-break: break-all;
+    padding: 0;
+    margin: 0.5em 0
+    }
+.calibre18 {
+    break-inside: avoid;
+    font-weight: normal;
+    height: 1em;
+    width: auto;
+    padding: 0;
+    margin: 0
+    }
+.copyright {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0 5pt
+    }
+.inscribe {
+    display: block;
+    font-family: "TimesNewRoman", "eBookKaiTi", "楷体", "STKai", STKai, serif;
+    font-weight: normal;
+    overflow: hidden;
+    text-align: right;
+    text-indent: 0;
+    width: 80%;
+    padding: 0;
+    border: currentColor none 0;
+    margin: 30vh auto auto
+    }
+.inscribe1 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "TimesNewRoman", "eBookKaiTi", "楷体", "STKai", STKai, serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0 0 0 2em;
+    margin: 1em 0 2em
+    }
+.level {
+    display: block;
+    font-weight: normal;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left
+    }
+.logo {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    bottom: 1em;
+    display: block;
+    font-family: "SourceHanSansSc4";
+    font-size: 0.75em;
+    font-weight: normal;
+    hyphens: auto;
+    left: 0;
+    line-height: 1.2;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-indent: 0;
+    width: 100%;
+    word-break: break-all;
+    padding: 0 0 0.5em;
+    margin: 0
+    }
+.main {
+    display: block;
+    font-weight: normal;
+    padding: 20% 0 6em;
+    margin: 0
+    }
+.note {
+    color: #000;
+    font-family: "NoteNubmerSymbol", "BookmanOld";
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: underline;
+    text-indent: 0;
+    top: -0.5em;
+    vertical-align: baseline;
+    padding: 0;
+    margin: 0
+    }
+.note1 {
+    color: #000;
+    font-family: "NoteNubmerSymbol", "BookmanOld";
+    font-size: 0.66667em;
+    font-weight: normal;
+    line-height: 1.2;
+    position: relative;
+    text-decoration: underline;
+    text-indent: 0;
+    top: -0.5em;
+    vertical-align: baseline;
+    padding: 0;
+    margin: 0
+    }
+.pcalibre4 {
+    color: #000;
+    display: block;
+    font-family: "BookmanOld", "eBookSongTi";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-decoration: none;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.pcalibre5 {
+    color: #000;
+    font-weight: normal;
+    text-decoration: none;
+    text-indent: 0;
+    padding: 0;
+    margin: 0
+    }
+.quote {
+    display: block;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 0;
+    border: currentColor none 0;
+    margin: 1.5em 2em
+    }
+.sigil_not_in_toc {
+    display: block;
+    font-family: "FzXiaoBiaoSong", serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    padding: 0;
+    margin: 2.5em 0 2em
+    }
+.subtitle {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "FzXiaoBiaoSong";
+    font-size: 1.125em;
+    font-weight: 400;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0;
+    margin: 0
+    }
+.title {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "FzXiaoBiaoSong";
+    font-size: 1.375em;
+    font-weight: 400;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0;
+    margin: 0
+    }
+.title1 {
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    display: block;
+    font-family: "FzXiaoBiaoSong";
+    font-size: 1.125em;
+    font-weight: normal;
+    hyphens: auto;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    word-break: break-all;
+    padding: 0 0 0 0.3em;
+    border: currentColor none 0;
+    margin: 2em 0
+    }
+.wapper {
+    display: block;
+    font-weight: normal;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    margin: 0
+    }
+.pcalibre:link {
+    color: #000;
+    text-decoration: none;
+    text-indent: 0
+    }
+.pcalibre2:visited {
+    color: #000;
+    text-decoration: none;
+    text-indent: 0
+    }
+.pcalibre3:hover {
+    color: #000;
+    text-decoration: none;
+    text-indent: 0
+    }
+.pcalibre1:active {
+    color: #000;
+    text-decoration: none;
+    text-indent: 0
+    }
